@@ -1,0 +1,34 @@
+{
+    "name": "Juego Rapido by Adrian",
+    "short_name": "Juego Rapido",
+    "description": "Juego de plataforma",
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "scope": "/",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff",
+    "icons": [
+      {
+        "src": "OIG1.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "OIG1.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+      {
+        "src": "OIG1.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "OIG1.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      }
+    ]
+  }
+  
