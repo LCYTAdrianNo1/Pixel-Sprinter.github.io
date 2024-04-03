@@ -2,7 +2,7 @@
     "name": "Juego Rapido by Adrian",
     "short_name": "Juego Rapido",
     "description": "Juego de plataforma",
-    "start_url": "/index.html",
+    "start_url": "https://lcytadrianno1.github.io/Pixel-Sprinter.github.io/",
     "display": "fullscreen",
     "scope": "/",
     "background_color": "#ffffff",
