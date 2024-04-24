@@ -7,11 +7,11 @@
     left: 600px;
     z-index: 1;
 
-    background: url(/img/cactus1.png) no-repeat;
+    background: url(../img/cactus1.png) no-repeat;
 }
 .cactus2{
     width: 98px;
     height: 66px;
 
-    background: url(/img/cactus2.png) no-repeat;
+    background: url(../img/cactus2.png) no-repeat;
 } 
