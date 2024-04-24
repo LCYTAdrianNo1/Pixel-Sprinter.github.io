@@ -88,6 +88,10 @@ document.addEventListener('DOMContentLoaded', function() {
             Saltar();
         }
     }
+
+    function HandleTouchStart() {
+    Saltar();
+    }
     
     function Saltar(){
         if(dinoPosY === sueloY){
